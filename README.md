@@ -18,28 +18,29 @@ Es asi que para dar cobertura a los requerimientos de las Tm's,  debemos tener e
 **Generales**
 
 
--Trabajo desarrolado en parejas
--Debe poseer una planificación documentada
--Definición del diseño en primera instancia como prototipo de baja fidelidad (papel y lápiz)
--Diseño de la Interfaz de Usuario (prototipo de alta fidelidad)
--Implementar el Data Dashboard usando html, css y js
--Desplegar el producto final en Github Pages
+1. Trabajo desarrolado en parejas
+2. Debe poseer una planificación documentada
+3. Definición del diseño en primera instancia como prototipo de baja fidelidad (papel y lápiz)
+4. Diseño de la Interfaz de Usuario (prototipo de alta fidelidad)
+5. Implementar el Data Dashboard usando html, css y js
+6. Desplegar el producto final en Github Pages
+
 
 **Particulares-Respecto de la Interfaz-**
 
+
 1. Permitir al usuario seleccionar un cohort de una lista de cohorts.
 2. Al seleccionar un cohort:
-   - Listar las alumnas de ese cohort
-   - Para cada alumna:
-     + Calcular porcentaje de completitud de todos los _cursos_.
-     + Calcular grado de completitud de _lecturas_, _ejercicios autocorregidos_,
-       y _quizzes_.
-   - Ordenar alumnas por completitud _general_ (porcentaje consumido/completado
-     de todos los cursos del cohort en cuestión), de _lecturas_, _ejercicios
-     autocorregidos_ y _quizzes_.
-   - Filtrar/buscar alumnas por nombre.
-3. Visualizarse sin problemas desde distintos tamaños de pantallas: móviles,
-   tablets y desktops.
+   2.1.  Listar las alumnas de ese cohort
+   2.2.  Para cada alumna:
+         2.2.1.   Calcular porcentaje de completitud de todos los _cursos_.
+         2.2.2.   Calcular grado de completitud de _lecturas_, _ejercicios autocorregidos_,
+                  y _quizzes_.
+   2.3.  Ordenar alumnas por completitud _general_ (porcentaje consumido/completado
+         de todos los cursos del cohort en cuestión), de _lecturas_, _ejercicios
+         autocorregidos_ y _quizzes_.
+         2.3.1.    Filtrar/buscar alumnas por nombre.
+3. Visualizarse sin problemas desde distintos tamaños de pantallas: móviles,tablets y desktops.
 4. Incluir pruebas unitarias.
 
 
