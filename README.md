@@ -57,27 +57,35 @@ Particulares-Respecto de la Interfaz-
 <a href="https://ibb.co/b46dno"><img src="https://preview.ibb.co/iXcUtT/Dashboard_8.jpg" alt="Dashboard_8" border="0"></a>
 
 [Inicio -Login de Tm's por sede]
+
 <a href="https://ibb.co/k7mKSo"><img src="https://preview.ibb.co/neNtno/af1.jpg" alt="af1" border="0"></a>
 
 [Acceso a Dashboard]
+
 <a href="https://ibb.co/i9UHDT"><img src="https://preview.ibb.co/mb6a08/af2.jpg" alt="af2" border="0"></a>
 
 [Menu Selección : /Sedes /Cohorts /Filtros]
+
 <a href="https://ibb.co/h8Xtno"><img src="https://preview.ibb.co/csAPtT/af3.jpg" alt="af3" border="0"></a>
 
 [Selección de Sedes]
+
 <a href="https://ibb.co/f7hhf8"><img src="https://preview.ibb.co/dROAYT/af4.jpg" alt="af4" border="0"></a>
 
 [Selección de Cohorts]
+
 <a href="https://ibb.co/gAyzSo"><img src="https://preview.ibb.co/kHtoL8/af5.jpg" alt="af5" border="0"></a>
 
 [Filtrado : /Nombre /Progreso /Curso /Buscar]
+
 <a href="https://ibb.co/iDe67o"><img src="https://preview.ibb.co/mA7F08/af6.jpg" alt="af6" border="0"></a>
 
 [Filtro Nombre Alumnas ]
+
 <a href="https://ibb.co/fmshf8"><img src="https://preview.ibb.co/izmm7o/af7.jpg" alt="af7" border="0"></a>
 
 [Progreso Alumna Seleccionada]
+
 <a href="https://ibb.co/fev2f8"><img src="https://preview.ibb.co/c5bm7o/af8.jpg" alt="af8" border="0"></a>
 
 
