@@ -13,7 +13,7 @@ Es asi que para dar cobertura a los requerimientos de las Tm's,  debemos tener e
 *La data consumida debe ser desplegada de manera responsive y amigable para el usuarios, ya que esta información es accesada de forma regular y periodica por las Tm's
 
 
-##Requerimientos:
+## Requerimientos.
 
  Generales
 
@@ -41,30 +41,41 @@ Particulares-Respecto de la Interfaz-
    tablets y desktops.
 4. Incluir pruebas unitarias.
 
+
 ##Prototipado -Sketch-
 
-*[Inicio -Login de Tm's por sede]
+[Prototipado de Baja Fidelidad]
+(<a href="https://ibb.co/hPQcf8"><img src="https://preview.ibb.co/m0SZSo/Dashboard_1.jpg" alt="Dashboard_1" border="0"></a>
+<a href="https://ibb.co/faRiL8"><img src="https://preview.ibb.co/cPFM7o/Dashboard_2.jpg" alt="Dashboard_2" border="0"></a>
+<a href="https://ibb.co/jzP9tT"><img src="https://preview.ibb.co/ngRNDT/Dashboard_3.jpg" alt="Dashboard_3" border="0"></a>
+<a href="https://ibb.co/eL5tL8"><img src="https://preview.ibb.co/dvCJno/Dashboard_4.jpg" alt="Dashboard_4" border="0"></a>
+<a href="https://ibb.co/gAQFYT"><img src="https://preview.ibb.co/hxi2DT/Dashboard_5.jpg" alt="Dashboard_5" border="0"></a>
+<a href="https://ibb.co/eFS7f8"><img src="https://preview.ibb.co/gwmdno/Dashboard_6.jpg" alt="Dashboard_6" border="0"></a>
+<a href="https://ibb.co/mTKL08"><img src="https://preview.ibb.co/fAE9tT/Dashboard_7.jpg" alt="Dashboard_7" border="0"></a>
+<a href="https://ibb.co/b46dno"><img src="https://preview.ibb.co/iXcUtT/Dashboard_8.jpg" alt="Dashboard_8" border="0"></a>)
+
+[Inicio -Login de Tm's por sede]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=36%3A20)
 
-*[Acceso a Dashboard]
+[Acceso a Dashboard]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=36%3A45)
 
-*[Menu Selección : /Sedes /Cohorts /Filtros]
+[Menu Selección : /Sedes /Cohorts /Filtros]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=36%3A73)
 
-*[Selección de Sedes]
+[Selección de Sedes]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=36%3A112)
 
-*[Selección de Cohorts]
+[Selección de Cohorts]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=39%3A80)
 
-*[Filtrado : /Nombre /Progreso /Curso /Buscar]
+[Filtrado : /Nombre /Progreso /Curso /Buscar]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=39%3A167)
 
-*[Filtro Nombre Alumnas ]
+[Filtro Nombre Alumnas ]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=39%3A225)
 
-*[Progreso Alumna Seleccionada]
+[Progreso Alumna Seleccionada]
 (https://www.figma.com/file/gdYVf4DYhSD4TzALJgjkQxYx/Proyecto2?node-id=39%3A274)
 
 
