@@ -45,6 +45,8 @@ Particulares-Respecto de la Interfaz-
 ##Prototipado -Sketch-
 
 [Prototipado de Baja Fidelidad]
+
+
 (<a href="https://ibb.co/hPQcf8"><img src="https://preview.ibb.co/m0SZSo/Dashboard_1.jpg" alt="Dashboard_1" border="0"></a>
 <a href="https://ibb.co/faRiL8"><img src="https://preview.ibb.co/cPFM7o/Dashboard_2.jpg" alt="Dashboard_2" border="0"></a>
 <a href="https://ibb.co/jzP9tT"><img src="https://preview.ibb.co/ngRNDT/Dashboard_3.jpg" alt="Dashboard_3" border="0"></a>
