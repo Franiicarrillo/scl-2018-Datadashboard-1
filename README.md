@@ -15,7 +15,8 @@ Es asi que para dar cobertura a los requerimientos de las Tm's,  debemos tener e
 
 ## Requerimientos.
 
- Generales
+**Generales**
+
 
 -Trabajo desarrolado en parejas
 -Debe poseer una planificación documentada
@@ -24,7 +25,7 @@ Es asi que para dar cobertura a los requerimientos de las Tm's,  debemos tener e
 -Implementar el Data Dashboard usando html, css y js
 -Desplegar el producto final en Github Pages
 
-Particulares-Respecto de la Interfaz-
+**Particulares-Respecto de la Interfaz-**
 
 1. Permitir al usuario seleccionar un cohort de una lista de cohorts.
 2. Al seleccionar un cohort:
@@ -46,69 +47,69 @@ Particulares-Respecto de la Interfaz-
 
 
 
-Img 1.
+**Img 1.**
 
 <a href="https://ibb.co/hPQcf8"><img src="https://preview.ibb.co/m0SZSo/Dashboard_1.jpg" alt="Dashboard_1" border="0"></a>
 
-Img2.
+**Img2.**
 
 <a href="https://ibb.co/faRiL8"><img src="https://preview.ibb.co/cPFM7o/Dashboard_2.jpg" alt="Dashboard_2" border="0"></a>
 
-Img3.
+**Img3.**
 
 <a href="https://ibb.co/jzP9tT"><img src="https://preview.ibb.co/ngRNDT/Dashboard_3.jpg" alt="Dashboard_3" border="0"></a>
 
-Img4.
+**Img4.**
 
 <a href="https://ibb.co/eL5tL8"><img src="https://preview.ibb.co/dvCJno/Dashboard_4.jpg" alt="Dashboard_4" border="0"></a>
 
-Img5.
+**Img5.**
 
 <a href="https://ibb.co/gAQFYT"><img src="https://preview.ibb.co/hxi2DT/Dashboard_5.jpg" alt="Dashboard_5" border="0"></a>
 
-Img6.
+**Img6.**
 
 <a href="https://ibb.co/eFS7f8"><img src="https://preview.ibb.co/gwmdno/Dashboard_6.jpg" alt="Dashboard_6" border="0"></a>
 
-Img7.
+**Img7.**
 
 <a href="https://ibb.co/mTKL08"><img src="https://preview.ibb.co/fAE9tT/Dashboard_7.jpg" alt="Dashboard_7" border="0"></a>
 
-Img8. 
+**Img8.** 
 
 <a href="https://ibb.co/b46dno"><img src="https://preview.ibb.co/iXcUtT/Dashboard_8.jpg" alt="Dashboard_8" border="0"></a>
 
 ## Prototipado Alta fidelidad
 
-[Inicio -Login de Tm's por sede]
+**Inicio -Login de Tm's por sede**
 
 <a href="https://ibb.co/k7mKSo"><img src="https://preview.ibb.co/neNtno/af1.jpg" alt="af1" border="0"></a>
 
-[Acceso a Dashboard]
+**Acceso a Dashboard**
 
 <a href="https://ibb.co/i9UHDT"><img src="https://preview.ibb.co/mb6a08/af2.jpg" alt="af2" border="0"></a>
 
-[Menu Selección : /Sedes /Cohorts /Filtros]
+**Menu Selección : /Sedes /Cohorts /Filtros**
 
 <a href="https://ibb.co/h8Xtno"><img src="https://preview.ibb.co/csAPtT/af3.jpg" alt="af3" border="0"></a>
 
-[Selección de Sedes]
+**Selección de Sedes**
 
 <a href="https://ibb.co/f7hhf8"><img src="https://preview.ibb.co/dROAYT/af4.jpg" alt="af4" border="0"></a>
 
-[Selección de Cohorts]
+**Selección de Cohorts**
 
 <a href="https://ibb.co/gAyzSo"><img src="https://preview.ibb.co/kHtoL8/af5.jpg" alt="af5" border="0"></a>
 
-[Filtrado : /Nombre /Progreso /Curso /Buscar]
+**Filtrado : /Nombre /Progreso /Curso /Buscar**
 
 <a href="https://ibb.co/iDe67o"><img src="https://preview.ibb.co/mA7F08/af6.jpg" alt="af6" border="0"></a>
 
-[Filtro Nombre Alumnas ]
+**Filtro Nombre Alumnas **
 
 <a href="https://ibb.co/fmshf8"><img src="https://preview.ibb.co/izmm7o/af7.jpg" alt="af7" border="0"></a>
 
-[Progreso Alumna Seleccionada]
+**Progreso Alumna Seleccionada**
 
 <a href="https://ibb.co/fev2f8"><img src="https://preview.ibb.co/c5bm7o/af8.jpg" alt="af8" border="0"></a>
 
