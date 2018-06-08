@@ -1,5 +1,4 @@
-describe('data', () => {
-
+  describe('data', () => {
   it('debería exponer función computeUsersStats en objeto global', () => {
     assert.isFunction(computeUsersStats);
   });
@@ -29,6 +28,7 @@ describe('data', () => {
 
       processed.forEach(user => {
         assert.ok(user.hasOwnProperty('stats'));
+        assert.isAtLeast(user.stats.percent, 0);
         assert.isNumber(user.stats.percent);
         assert.isObject(user.stats.exercises);
         assert.isObject(user.stats.quizzes);
@@ -75,7 +75,7 @@ describe('data', () => {
   });
 
   describe('sortUsers(users, orderBy, orderDirection)', () => {
-
+    
     it('debería retornar arreglo de usuarios ordenado por nombre ASC');
     it('debería retornar arreglo de usuarios ordenado por nombre DESC');
     it('debería retornar arreglo de usuarios ordenado por porcentaje general ASC');
