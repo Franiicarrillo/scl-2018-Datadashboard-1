@@ -42,19 +42,44 @@ Particulares-Respecto de la Interfaz-
 4. Incluir pruebas unitarias.
 
 
-##Prototipado -Sketch-
+## Prototipado 
+
 
 [Prototipado de Baja Fidelidad]
 
+Img 1.
 
 <a href="https://ibb.co/hPQcf8"><img src="https://preview.ibb.co/m0SZSo/Dashboard_1.jpg" alt="Dashboard_1" border="0"></a>
+
+Img2.
+
 <a href="https://ibb.co/faRiL8"><img src="https://preview.ibb.co/cPFM7o/Dashboard_2.jpg" alt="Dashboard_2" border="0"></a>
+
+Img3.
+
 <a href="https://ibb.co/jzP9tT"><img src="https://preview.ibb.co/ngRNDT/Dashboard_3.jpg" alt="Dashboard_3" border="0"></a>
+
+Img4.
+
 <a href="https://ibb.co/eL5tL8"><img src="https://preview.ibb.co/dvCJno/Dashboard_4.jpg" alt="Dashboard_4" border="0"></a>
+
+Img5.
+
 <a href="https://ibb.co/gAQFYT"><img src="https://preview.ibb.co/hxi2DT/Dashboard_5.jpg" alt="Dashboard_5" border="0"></a>
+
+Img6.
+
 <a href="https://ibb.co/eFS7f8"><img src="https://preview.ibb.co/gwmdno/Dashboard_6.jpg" alt="Dashboard_6" border="0"></a>
+
+Img7.
+
 <a href="https://ibb.co/mTKL08"><img src="https://preview.ibb.co/fAE9tT/Dashboard_7.jpg" alt="Dashboard_7" border="0"></a>
+
+Img8. 
+
 <a href="https://ibb.co/b46dno"><img src="https://preview.ibb.co/iXcUtT/Dashboard_8.jpg" alt="Dashboard_8" border="0"></a>
+
+
 
 [Inicio -Login de Tm's por sede]
 
