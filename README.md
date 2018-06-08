@@ -31,15 +31,15 @@ Es asi que para dar cobertura a los requerimientos de las Tm's,  debemos tener e
 
 1. Permitir al usuario seleccionar un cohort de una lista de cohorts.
 2. Al seleccionar un cohort:
-   2.1.  Listar las alumnas de ese cohort
-   2.2.  Para cada alumna:
-         2.2.1.   Calcular porcentaje de completitud de todos los _cursos_.
-         2.2.2.   Calcular grado de completitud de _lecturas_, _ejercicios autocorregidos_,
+   *2.1.  Listar las alumnas de ese cohort
+   *2.2.  Para cada alumna:
+         *2.2.1.   Calcular porcentaje de completitud de todos los _cursos_.
+         *2.2.2.   Calcular grado de completitud de _lecturas_, _ejercicios autocorregidos_,
                   y _quizzes_.
-   2.3.  Ordenar alumnas por completitud _general_ (porcentaje consumido/completado
+   *2.3.  Ordenar alumnas por completitud _general_ (porcentaje consumido/completado
          de todos los cursos del cohort en cuestión), de _lecturas_, _ejercicios
          autocorregidos_ y _quizzes_.
-         2.3.1.    Filtrar/buscar alumnas por nombre.
+         *2.3.1.    Filtrar/buscar alumnas por nombre.
 3. Visualizarse sin problemas desde distintos tamaños de pantallas: móviles,tablets y desktops.
 4. Incluir pruebas unitarias.
 
