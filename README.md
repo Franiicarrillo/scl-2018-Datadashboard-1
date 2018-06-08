@@ -42,10 +42,9 @@ Particulares-Respecto de la Interfaz-
 4. Incluir pruebas unitarias.
 
 
-## Prototipado 
+## Prototipado Baja fidelidad
 
 
-[Prototipado de Baja Fidelidad]
 
 Img 1.
 
@@ -79,7 +78,7 @@ Img8.
 
 <a href="https://ibb.co/b46dno"><img src="https://preview.ibb.co/iXcUtT/Dashboard_8.jpg" alt="Dashboard_8" border="0"></a>
 
-
+## Prototipado Alta fidelidad
 
 [Inicio -Login de Tm's por sede]
 
