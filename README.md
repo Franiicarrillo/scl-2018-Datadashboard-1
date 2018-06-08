@@ -106,7 +106,7 @@ Es asi que para dar cobertura a los requerimientos de las Tm's,  debemos tener e
 
 <a href="https://ibb.co/iDe67o"><img src="https://preview.ibb.co/mA7F08/af6.jpg" alt="af6" border="0"></a>
 
-**Filtro Nombre Alumnas **
+**Filtro: Nombre Alumnas**
 
 <a href="https://ibb.co/fmshf8"><img src="https://preview.ibb.co/izmm7o/af7.jpg" alt="af7" border="0"></a>
 
