@@ -2,15 +2,15 @@
 
 ## Proyecto 2 para Laboratoria scl-2018.
 
-Para dar seguimiento al aprendizaje  las Training Managers (TMs) analizan datos respecto al desempeño de las estudiantes, hasta el momento para dar segumiento a esta data las TM's deben chequear estos datos a partir de documentos de excel (Google Spreadsheets) que están localizados en distintas carpetas y ubicaciones, provocando que su busqueda sea tediosa e ineficiente.
+Para dar seguimiento al aprendizaje  las Training Managers (TMs) analizan datos respecto al desempeño de las estudiantes, hasta el momento para dar seguimiento a esta data las TM's deben chequear estos datos a partir de documentos de excel (Google Spreadsheets) que están localizados en distintas carpetas y ubicaciones, provocando que su busqueda sea tediosa e ineficiente.
 
-Como una forma de optimizar su tiempo y darles acceso a la data en forma de visualizaciones dinámicas que faciliten su interacción con los datos y documentos.Se no ha propuesto  como reto construir un Data Dashboard
+Como una forma de optimizar su tiempo y darles acceso a la data en forma de visualizaciones dinámicas que faciliten su interacción con los datos y documentos.Se nos ha propuesto como reto construir un Data Dashboard.
 
 Así para dar cobertura a los requerimientos de las Tm's,  debemos tener en cuenta la siguiente información:
 
-*La interfaz debe mostrar en una posición de fácil acceso la información del progreso del curso en distintos tópicos, es decir debe entregar informacion del progreso general del curso en lecturas, ejercicios y quizzes
+*La interfaz debe mostrar en una posición de fácil acceso la información del progreso del curso en distintos tópicos, es decir debe entregar informacion del progreso general del curso en lecturas, ejercicios y quizzes*
 
-*La data consumida debe ser desplegada de manera responsive y amigable para el usuarios, ya que esta información es accesada de forma regular y periodica por las Tm's
+*La data consumida debe ser desplegada de manera responsive y amigable para el usuarios, ya que esta información es accesada de forma regular y periodica por las Tm's*
 
 
 ## Requerimientos.
