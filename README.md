@@ -6,7 +6,7 @@ Para dar seguimiento al aprendizaje  las Training Managers (TMs) analizan datos 
 
 Como una forma de optimizar su tiempo y darles acceso a la data en forma de visualizaciones dinamica que facilite su interacción con los datos y documentos.Se no ha propuesto  como reto construir un Data Dashboard
 
-Es asi que para dar cobertura a los requerimientos de las Tm's,  debemos tener en cuenta la siguiente información:
+Así para dar cobertura a los requerimientos de las Tm's,  debemos tener en cuenta la siguiente información:
 
 *La interfaz debe mostrar en una posición de fácil acceso la información del progreso del curso en distintos tópicos, es decir debe entregar informacion del progreso general del curso en lecturas, ejercicios y quizzes
 
