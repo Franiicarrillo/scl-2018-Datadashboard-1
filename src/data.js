@@ -104,7 +104,7 @@ window.computeUsersStats = (users1, progress, courses) => {
   function mostrarData() {
     var userSeleccionada = document.getElementById('selectAlumnas1');
     var optionSelected = userSeleccionada.options[userSeleccionada.selectedIndex].value;
-    document.getElementById("datos").value = optionSelected;
+    document.getElementById('datos').value = optionSelected;
 }
  
 
