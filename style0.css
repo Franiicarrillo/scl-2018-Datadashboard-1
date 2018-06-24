@@ -1,0 +1,47 @@
+.bienvenida{
+font-family: 'Cabin Sketch', cursive;
+font-size: 100px;
+
+}
+
+body{
+  background-color: #ffe526;
+  text-align: center;
+  padding-left: 4em;
+  padding-top: 12em;
+
+
+
+}
+@keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.9); }
+    to { transform: none; }
+}
+#corazon{
+  width: 200px;
+  height: 200px;
+	animation: latidos .7s infinite;
+
+}
+#container{
+  max-width: 100%;
+}
+@media (max-width: 600px) {
+ .bienvenida {
+ font-size: 70px;
+ }
+
+ body{
+   padding-left: 1em;
+ }
+ }
+
+ @media (max-width: 400px) {
+  .bienvenida {
+  font-size: 50px;
+  }
+  body{
+    padding-left: 1em;
+  }
+  }
