@@ -277,19 +277,20 @@ function generarTablaUsuarios(users){
       tablaDeUsers+=`<table>`
       tablaDeUsers+=`<tr>
                       <th>Nombre</th>
-                      <th>Completitud Curso [%]</th>
-                      <th>Ejercicios Completados [%]</th>
-                      <th>Lecturas Completados [%]</th>
-                      <th>Quizzes Completados [%]</th>
+                      <th>Completitud Curso </th>
+                      <th>Ejercicios Completados </th>
+                      <th>Lecturas Completados </th>
+                      <th>Quizzes Completados</th>
+                      <th>Quizzes Puntajes Promedio </th>
                     </tr>`           
       users.forEach((user) => {
       tablaDeUsers+=`<tr>
                       <td class='name'>${user.name}</td>
-                      <td class='percent'>${user.stats.percent}</td>
-                      <td class='exercisesCompleted'>${user.stats.exercises.percent}</td>
-                      <td class='readsCompleted'>${user.stats.reads.percent}</td>
-                      <td class='quizzesCompleted'>${user.stats.quizzes.percent}</td>
-                      <td class='quizzesScoreAvg'>${user.stats.quizzes.scoreAvg}</td>
+                      <td class='percent'>${user.stats.percent} %</td>
+                      <td class='exercisesCompleted'>${user.stats.exercises.percent} %</td>
+                      <td class='readsCompleted'>${user.stats.reads.percent} % </td>
+                      <td class='quizzesCompleted'>${user.stats.quizzes.percent} %</td>
+                      <td class='quizzesScoreAvg'>${user.stats.quizzes.scoreAvg} %</td>
                      </tr>`
         })
       tablaDeUsers+=`<table>`
