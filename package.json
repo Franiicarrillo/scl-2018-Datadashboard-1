@@ -18,7 +18,9 @@
     "nyc": "^11.7.1",
     "opener": "^1.4.3"
   },
-  "eslintIgnore": ["test/fixtures.js"],
+  "eslintIgnore": [
+    "test/fixtures.js"
+  ],
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-standard": "^11.0.0",

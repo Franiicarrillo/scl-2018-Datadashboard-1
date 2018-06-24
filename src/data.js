@@ -1,5 +1,13 @@
 // .......................................................................................origenes de los J'son
-const urls = ['http://127.0.0.1:8887/data/cohorts/lim-2018-03-pre-core-pw/users.json',
+// const urls = ['https://github.com/Laboratoria/scl-2018-05-bc-core-pm-datadashboard/blob/master/data/cohorts/lim-2018-03-pre-core-pw/users.json',
+//   'https://github.com/Laboratoria/scl-2018-05-bc-core-pm-datadashboard/blob/master/data/cohorts/lim-2018-03-pre-core-pw/progress.json',
+//   'https://github.com/Laboratoria/scl-2018-05-bc-core-pm-datadashboard/blob/master/data/cohorts.json']
+
+// const urls = ['../data/cohorts/lim-2018-03-pre-core-pw/users.json',
+//   '../data/cohorts/lim-2018-03-pre-core-pw/progress.json',
+//   '../data/cohorts.json']
+
+  const urls = ['http://127.0.0.1:8887/data/cohorts/lim-2018-03-pre-core-pw/users.json',
   'http://127.0.0.1:8887/data/cohorts/lim-2018-03-pre-core-pw/progress.json',
   'http://127.0.0.1:8887/data/cohorts.json']
 
@@ -92,20 +100,23 @@ window.computeUsersStats = (users1, progress, courses) => {
  
 //............................................................................Crear Listado Scroll
     let usuariasListado = ''
-      usuariasListado += `<select id='selectAlumnas1'onchange=${mostrarData()}><option >Listado de Alumnas</option>`
-    users.forEach(user => {
-      usuariasListado += `<option value=${promedioGeneral(progress[user.id])}>${user.name}</option>`
-    })
-     usuariasListado += `</select>`
-     `<input type='text' id='datos' />`
-     
-  listaUsuarias.innerHTML = usuariasListado
+      usuariasListado += `<select id='selectAlumnas1'><option disabled selected >Listado de Alumnas</option>`
+      users.forEach(user => {
+      usuariasListado += `<option value='${user.id}${user.stats.exercises.percent}'>${user.name}</option>`
+      })
+     usuariasListado += `</select>`   
+    listaUsuarias.innerHTML = usuariasListado
 
-  function mostrarData() {
-    var userSeleccionada = document.getElementById('selectAlumnas1');
-    var optionSelected = userSeleccionada.options[userSeleccionada.selectedIndex].value;
-    document.getElementById('datos').value = optionSelected;
-}
+    var select = document.getElementById('selectAlumnas1');
+    select.addEventListener('change',
+    function(){
+    var selectedOption = select.options[select.selectedIndex];
+    console.log(selectedOption.value);
+    });
+
+     
+
+
  
 
 } else if (seleccionCohort1.value !== 'lim-2018-03-pre-core-pw') {
@@ -123,6 +134,7 @@ console.log('Lo sentimos no se encuentran datos disponibles.')
   quizzScoresProm(users)
   window.sortUsers(users)
   window.filterUsers(users)
+  generarTablaUsuarios(users)
   
   return (users)
 }
@@ -260,7 +272,35 @@ function quizzScoresProm (users) {
   console.log(`Promedio de puntajes de los quizzes del curso:${promedio4}%`)
 }
 // ...............................................................................................................
+function generarTablaUsuarios(users){
+  let tablaDeUsers=''
+      tablaDeUsers+=`<table>`
+      tablaDeUsers+=`<tr>
+                      <th>Nombre</th>
+                      <th>Completitud Curso [%]</th>
+                      <th>Ejercicios Completados [%]</th>
+                      <th>Lecturas Completados [%]</th>
+                      <th>Quizzes Completados [%]</th>
+                    </tr>`           
+      users.forEach((user) => {
+      tablaDeUsers+=`<tr>
+                      <td class='name'>${user.name}</td>
+                      <td class='percent'>${user.stats.percent}</td>
+                      <td class='exercisesCompleted'>${user.stats.exercises.percent}</td>
+                      <td class='readsCompleted'>${user.stats.reads.percent}</td>
+                      <td class='quizzesCompleted'>${user.stats.quizzes.percent}</td>
+                      <td class='quizzesScoreAvg'>${user.stats.quizzes.scoreAvg}</td>
+                     </tr>`
+        })
+      tablaDeUsers+=`<table>`
+      contenedorTableUsuarias.innerHTML=tablaDeUsers
 
+}
+
+
+
+
+//................................................................................................................
 window.sortUsers = (users, orderBy, orderDirection) => {
   let arrayordenado = users;
 //.............................................................................sort:Nombre
@@ -426,9 +466,9 @@ window.filterUsers = (users, search ='luc') => {
 };
 
 
-// window.processCohortData = (options) => {
+window.processCohortData = (options) => {
 
-// }
+}
 
 
 
