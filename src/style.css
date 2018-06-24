@@ -7,13 +7,15 @@ height:100px;
 
 /* Estilo tabla */
 table {
+    border: 1px solid  #07415c;
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
+    
 }
 
 td, th {
-    border: 1px solid #656960
+    border: 1px solid #2f3c5f
     text-align: left;
     padding: 8px;
 }
